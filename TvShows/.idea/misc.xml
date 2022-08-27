@@ -4,6 +4,17 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/ASUS/Desktop/New folder (2)/TvShows/TvShows/app/src/main/res/drawable/background_back_button.xml" value="0.1325" />
+        <entry key="..\:/Users/ASUS/Desktop/New folder (2)/TvShows/TvShows/app/src/main/res/drawable/background_fab.xml" value="0.172" />
+        <entry key="..\:/Users/ASUS/Desktop/New folder (2)/TvShows/TvShows/app/src/main/res/drawable/background_fading_edge.xml" value="0.2015" />
+        <entry key="..\:/Users/ASUS/Desktop/New folder (2)/TvShows/TvShows/app/src/main/res/drawable/background_slider_indicator_active.xml" value="0.1325" />
+        <entry key="..\:/Users/ASUS/Desktop/New folder (2)/TvShows/TvShows/app/src/main/res/drawable/background_slider_indicator_inactive.xml" value="0.1325" />
+        <entry key="..\:/Users/ASUS/Desktop/New folder (2)/TvShows/TvShows/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/New folder (2)/TvShows/TvShows/app/src/main/res/layout/activity_tvshow_details.xml" value="0.3625" />
+        <entry key="..\:/Users/ASUS/Desktop/New folder (2)/TvShows/TvShows/app/src/main/res/layout/item_container_episode.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/ASUS/Desktop/New folder (2)/TvShows/TvShows/app/src/main/res/layout/item_container_tv_show.xml" value="0.3182291666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/New folder (2)/TvShows/TvShows/app/src/main/res/layout/item_containner_slider_image.xml" value="0.19375" />
+        <entry key="..\:/Users/ASUS/Desktop/New folder (2)/TvShows/TvShows/app/src/main/res/layout/layout_episodes_bottom_sheet.xml" value="0.3614583333333333" />
         <entry key="app/src/main/res/drawable/background_tv_show.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/item_container_tv_show.xml" value="0.25" />
